@@ -100,7 +100,7 @@ sections:
   - type: features_section
     features:
       - title: Obtén tu menú digital gratis!
-        subtitle: For true work-life balance
+        subtitle: Te prometemos que nunca tendrá costo
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
