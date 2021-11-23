@@ -33,7 +33,7 @@ sections:
     subtitle: Ventajas
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: 100% Responsivo
         title_align: left
         content: >-
           See all of your appointments, work meetings and life events in one
