@@ -107,7 +107,7 @@ sections:
           activar tu paquete
         actions:
           - label: Quiero mi menú gratuito
-            url: /pricing
+            url: 'https://api.whatsapp.com/message/O6ACFXNY6DWUD1'
             style: primary
             has_icon: true
             icon: arrow-right
