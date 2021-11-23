@@ -8,10 +8,11 @@ sections:
     subtitle: >-
       Nosotros te podemos crear el menú digital que necesitas y además no tiene
       ningún costo!
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Mi Menú QR, es un sistema que no utiliza archivos PDF ni imágenes
+      difíciles de ver y navegar, dale una gran experiencia visual a tus
+      clientes, ofrecele promociones según la sección del menú en donde se
+      encuentre e incrementa tus ventas
     actions:
       - label: App Store
         url: /pricing
