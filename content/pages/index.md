@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: Tienes un restaurante y necesitas un menú digital?
+    title: >-
+      Tienes un restaurante y necesitas un menú digital, pero no tienes idea de
+      como hacerlo?
     subtitle: Nosotros te resolvemos tu
     content: >-
       App Land combines your work and home calendars with all your task
