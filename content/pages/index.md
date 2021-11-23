@@ -15,8 +15,7 @@ sections:
       encuentre e incrementa tus ventas
     actions:
       - label: Menú Demo
-        url: >-
-          https://l.facebook.com/l.php?u=http%3A%2F%2F1.mimenuqr.digital%2Frsh%3Ffbclid%3DIwAR3ah-PoqGRXuOxVHR1yTn03-rWGi88k_ZMAmSwFMLQnoSQJjF2IcNYe6UI&h=AT0Lzs2xgtG4uJ7mJM_hT6yreqdYg6S3mtmeKXAARn4PsRfW9W36MDeiKrbwMuRxITsynoQ_Kt3UvlxyUoK589vWt21P4sw83GtxmV3iv6RktCJOdRzAy2DaOMioq_MxMNB1QK08lQ&__tn__=-UK-R&c[0]=AT1jgH_YsskZ6I4wD8CP1ACcPHyj7-WtBTwx5GbltCszR-_F1fUNQw1KIpRaaK9_ixKRn8jDfowlBVbh9slTH8-XrscSMKRGtSm1IIsKifHQ4kJjXMY8eFSpIeInDAQkULr_O2Yf2u-L0-UGW-9qjO4Q8HV79MgeoJJ5GmHOyIlLQgkm9S5EhvVpIRnDR2dbVZFvtEt-xuBALPTu_Oo
+        url: 'http://1.mimenuqr.digital/rsh'
         style: primary
       - label: Si quiero el menú!
         url: /pricing
