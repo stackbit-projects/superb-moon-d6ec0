@@ -17,7 +17,7 @@ sections:
       - label: Menú Demo
         url: /pricing
         style: primary
-      - label: Solicita
+      - label: Quiero el menú!
         url: /pricing
         style: secondary
     image: images/hero.svg
