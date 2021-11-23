@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Tienes
+    title: Tienes un restaurante y necesitas un menú digital?
     subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
