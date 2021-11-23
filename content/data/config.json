@@ -15,7 +15,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "App Store",
+                "label": "Menú Demo",
                 "url": "/pricing",
                 "style": "primary"
             },
