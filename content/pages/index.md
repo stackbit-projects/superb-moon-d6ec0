@@ -17,6 +17,7 @@ sections:
       - label: Menú Demo
         url: 'http://1.mimenuqr.digital/rsh'
         style: primary
+        has_icon: true
       - label: Si quiero el menú!
         url: 'https://www.qrgeeks.com/producto/menu-qr-gratis-para-restaurante/'
         style: secondary
