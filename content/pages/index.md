@@ -14,7 +14,7 @@ sections:
       clientes, ofrecele promociones según la sección del menú en donde se
       encuentre e incrementa tus ventas
     actions:
-      - label: MenúDemo
+      - label: Menú Demo
         url: /pricing
         style: primary
       - label: Google Play
