@@ -30,7 +30,9 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: No necesitas conocimientos técnicos
+    title: >-
+      Registrate con nosotros y además de tu menú gratuito obtendrás una
+      asesoría gratis de como realizar cobros digitales.
     subtitle: Ventajas
     align: center
     grid_items:
