@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Tienes un restaurante y necesitas un menú digital?
-    subtitle: Stop switching between calendars and task lists!
+    subtitle: Nosotros te resolvemos tu
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
