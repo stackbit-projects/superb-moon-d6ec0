@@ -29,7 +29,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Tus
+    title: No necesitas conocimientos técnicos
     subtitle: Ventajas
     align: center
     grid_items:
