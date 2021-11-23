@@ -15,7 +15,7 @@ sections:
       encuentre e incrementa tus ventas
     actions:
       - label: Menú Demo
-        url: /pricing
+        url: 'https://qrgeeks.com/qrmenu/'
         style: primary
       - label: Si quiero el menú!
         url: /pricing
