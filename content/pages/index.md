@@ -5,7 +5,9 @@ sections:
     title: >-
       Tienes un restaurante y necesitas un menú digital, pero no tienes idea de
       como hacerlo?
-    subtitle: Nosotros te resolvemos tu
+    subtitle: >-
+      Nosotros te podemos crear el menú digital que necesitas y además no tiene
+      ningún costo!
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
