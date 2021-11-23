@@ -106,7 +106,7 @@ sections:
           te solicitaremos tu email y nuestro equipo se pondrá en contacto para
           activar tu paquete
         actions:
-          - label: 'Quiero mi '
+          - label: Quiero mi menú gratuito
             url: /pricing
             style: primary
             has_icon: true
