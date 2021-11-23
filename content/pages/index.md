@@ -18,7 +18,7 @@ sections:
         url: 'http://1.mimenuqr.digital/rsh'
         style: primary
       - label: Si quiero el menú!
-        url: /pricing
+        url: 'https://www.qrgeeks.com/producto/menu-qr-gratis-para-restaurante/'
         style: secondary
     image: images/hero.svg
     image_alt: Hero section placeholder image
